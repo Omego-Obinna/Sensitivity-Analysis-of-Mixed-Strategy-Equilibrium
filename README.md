@@ -31,7 +31,7 @@ This repository contains two MATLAB scripts that explore strategic interactions 
 
      * $p^*$ = Probability of 𝒜 attacking
      * $q^*$ = Probability of 𝒰 hiding
-   * Varies key cost/benefit parameters $B_A_{\text{leak}}$, $C_A_{\text{look}}$, $B_U_{\text{harmony}}$, $B_U_{\text{hide}}$, $C_U_{\text{hide}}$, $C_U_{\text{leak}}$ and plots how $p^*$ and $q^*$ respond.
+   * Varies key cost/benefit parameters $B_A_{leak}$, $C_A_{\text{look}}$, $B_U_{\text{harmony}}$, $B_U_{\text{hide}}$, $C_U_{\text{hide}}$, $C_U_{\text{leak}}$ and plots how $p^*$ and $q^*$ respond.
 
 2. **nash\_equilibrium\_histogram.m**
 
