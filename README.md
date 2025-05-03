@@ -72,11 +72,9 @@ This repository contains two MATLAB scripts that explore strategic interactions 
 
 ## Sample Outputs
 
-![Sensitivity Analysis](images/sensitivity_output.png)
-*Figure 1: Sensitivity of MNE strategies to parameter variations.*
+Figure 1: Sensitivity of MNE strategies to parameter variations.*
 
-![Nash Equilibrium Histogram](images/nash_histogram.png)
-*Figure 2: 2D histogram of sampled Nash-equilibrium strategies.*
+Figure 2: 2D histogram of sampled Nash-equilibrium strategies.*
 
 ## Topics
 
